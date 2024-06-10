@@ -69,3 +69,4 @@ target/
 git_push.sh
 
 .idea
+.DS_Store
